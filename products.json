@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Macbook pro ",
+      "price": 999.99,
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "image_url": "./images/1.png",
+      "rating": 4.8,
+      "quantity": 15
+    },
+    {
+      "id": 2,
+      "name": "SleekBook Pro X2",
+      "price": 849.99,
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "image_url": "./images/2.jpg",
+      "rating": 4.5,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "name": "UltraBook 5000",
+      "price": 1199.95,
+      "ram": "12GB",
+      "storage": "1TB SSD",
+      "image_url": "./images/3.jpg",
+      "rating": 4.7,
+      "quantity": 8
+    },
+    {
+      "id": 4,
+      "name": "Gaming Laptop Pro",
+      "price": 1499.99,
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "image_url": "./images/4.jpg",
+      "rating": 4.9,
+      "quantity": 5
+    },
+    {
+      "id": 5,
+      "name": "Convertible Notebook X",
+      "price": 699.99,
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "image_url": "./images/5.jpg",
+      "rating": 4.6,
+      "quantity": 12
+    },
+    {
+      "id": 6,
+      "name": "SlimBook 300",
+      "price": 599.95,
+      "ram": "8GB",
+      "storage": "128GB SSD",
+      "image_url": "./images/6.jpg",
+      "rating": 4.2,
+      "quantity": 20
+    }
+  ]
+
